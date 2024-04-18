@@ -1,4 +1,7 @@
-# Solar System
+<img src="https://raw.githubusercontent.com/PrakasRavichandran/PrakashRavichandran/52cf257c5756d6c4109da2c5286088fecf936249/public/images/project-logos/gardianofgalaxy.png" width="350" align="right" hspace="0" />
+
+✨ &nbsp; Guardian of the Galaxy 🌌
+====== 
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2FSolar-System&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
