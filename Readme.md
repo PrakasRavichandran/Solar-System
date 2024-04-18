@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PrakasRavichandran/PrakashRavichandran/52cf257c5756d6c4109da2c5286088fecf936249/public/images/project-logos/gardianofgalaxy.png" width="350" align="right" hspace="0" />
+<img src="https://raw.githubusercontent.com/PrakasRavichandran/PrakashRavichandran/52cf257c5756d6c4109da2c5286088fecf936249/public/images/project-logos/gardianofgalaxy.png" width="144" align="right" hspace="0" />
 
 ✨ &nbsp; Guardian of the Galaxy 🌌
 ====== 
